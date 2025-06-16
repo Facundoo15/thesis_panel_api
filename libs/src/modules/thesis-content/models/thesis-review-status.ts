@@ -1,0 +1,5 @@
+export enum ContentReviewStatus {
+  PENDING = 'PENDING',
+  REVIEWED = 'REVIEWED',
+  CORRECTIONS_REQUESTED = 'CORRECTIONS_REQUESTED',
+}
