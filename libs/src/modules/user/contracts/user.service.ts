@@ -13,4 +13,3 @@ export interface IUserService {
   update(id: number, data: UpdateUserDTO): Promise<ResponseUserDTO>;
   delete(id: number): Promise<void>;
 }
-  

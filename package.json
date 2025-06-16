@@ -2,7 +2,7 @@
   "name": "system-thesis-flow",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Favio Angulo - World System Sac",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -28,6 +28,7 @@
     "@nestjs/core": "^10.0.0",
     "@nestjs/jwt": "^11.0.0",
     "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/swagger": "^7.1.10",
     "@nestjs/typeorm": "^11.0.0",
     "bcrypt": "^5.1.1",
     "casbin": "^5.38.0",
@@ -37,6 +38,7 @@
     "nestjs-seeder": "^0.3.2",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
+    "swagger-ui-express": "^5.0.1",
     "typeorm": "^0.3.21",
     "typeorm-adapter": "^1.7.0"
   },
